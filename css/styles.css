@@ -1,0 +1,84 @@
+body{
+    font-family: Roboto,sans-serif;
+    letter-spacing: 0.02em;
+
+}
+button{
+    font-family: inherit;
+}
+
+h1{
+
+font-weight: 600;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+}
+
+h2{
+
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+h3{
+
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.logo{
+    font-family: Raleway,sans-serif ;
+    font-size: 18px;
+    line-height: 1.33;
+    text-decoration: none;
+}
+.site-nav{
+font-weight: 600;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+
+}
+.site-nav a{
+    text-decoration: none;
+}
+
+.contacts{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+
+}
+
+.contacts a{
+    text-decoration: none;
+}
+
+.button-hero{
+
+font-weight: 600;
+font-size: 16px;
+line-height: 1.18;
+letter-spacing: 0.04em;
+}
+.hero-tittle{
+font-weight: 600;
+font-size: 56px;
+line-height: 1.07;
+
+text-align: center;
+letter-spacing: 0.02em;
+
+}
+
+
+
