@@ -1,10 +1,23 @@
 body{
     font-family: Roboto,sans-serif;
     letter-spacing: 0.02em;
+    color: #2E2F42;
+    
 
 }
 button{
     font-family: inherit;
+    cursor: pointer;
+    color: #4D5AE5;
+    background-color: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+ul{
+    list-style: none;
+}
+span{
+    color: #4D5AE5;
 }
 
 h1{
@@ -26,7 +39,7 @@ letter-spacing: 0.02em;
 
 h3{
 
-font-weight: 400;
+
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -37,18 +50,25 @@ letter-spacing: 0.02em;
     font-size: 18px;
     line-height: 1.33;
     text-decoration: none;
+    color: #2E2F42;
 }
 .site-nav{
-font-weight: 600;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-
-
-}
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+    
+    }
 .site-nav a{
     text-decoration: none;
+    color: #2E2F42;
+    }
+
+.site-nav a:hover, .site-nav a:focus{
+    color: #4D5AE5;
 }
+
 
 .contacts{
 font-weight: 400;
@@ -61,8 +81,11 @@ letter-spacing: 0.02em;
 
 .contacts a{
     text-decoration: none;
+    color: #434455;
 }
-
+.contacts a:hover, .contacts a:focus{
+    color: #4D5AE5;
+}
 .button-hero{
 
 font-weight: 600;
@@ -79,6 +102,5 @@ text-align: center;
 letter-spacing: 0.02em;
 
 }
-
 
 
