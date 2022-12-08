@@ -67,6 +67,7 @@ letter-spacing: 0.02em;
 
 .site-nav a:hover, .site-nav a:focus{
     color: #4D5AE5;
+    text-decoration: underline;
 }
 
 
